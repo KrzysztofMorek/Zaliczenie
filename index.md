@@ -2,24 +2,15 @@
 
 ### Tutaj znajdują się ciekawe rzeczy
 
-![Image](https://www.google.com/search?q=zdj%C4%99cie&sxsrf=ALeKk02rT4CCwvrddygwVTJLCKVFfPmeUQ:1623835789879&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiJg7fb65vxAhVI-aQKHVPbDl4Q_AUoAXoECAIQAw&biw=1707&bih=837&dpr=1.13#imgrc=-OsQE1qHxkR1OM)
+![Image](https://ocdn.eu/pulscms-transforms/1/El9k9kpTURBXy9mOTk1NzZhNTY3YjhlYjljZWQ3MDcxMGJjNWEzZTZhNy5qcGeTlQMAFs0C1M0Bl5MFzQMUzQG8kwmmMDZjMDIzBoGhMAU/gettyimages-954867550.webp)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- Mam **22* lata
+- Mieszkam w _Szczecinie_
+- Mam **niebieski** kolor oczu
+- Mój wzrost wynosi **181** cm
 
 **Bold** and _Italic_ and `Code` text
 
