@@ -1,9 +1,6 @@
-## Witaj na mojej stronie!
+## Coś o mnie.
 
-You can use the [editor on GitHub](https://github.com/KrzysztofMorek/Zaliczenie/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Nazywam się Krzysztof Morek, aktualnie mam 22 lata a urodziłem się 14 września 1999 roku w Szczecinie
 
 
 ### Markdown
