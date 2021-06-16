@@ -1,7 +1,8 @@
-###### Ciekawe rzeczy.
+# Ciekawe rzeczy.
 
-Nazywam się Krzysztof Morek, aktualnie mam 22 lata a urodziłem się 14 września 1999 roku w Szczecinie
-[Image](C:\Users\Krzychu\Desktop\Github/zdj1)
+### Tutaj znajdują się ciekawe rzeczy
+
+![Image](https://www.google.com/search?q=zdj%C4%99cie&sxsrf=ALeKk02rT4CCwvrddygwVTJLCKVFfPmeUQ:1623835789879&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiJg7fb65vxAhVI-aQKHVPbDl4Q_AUoAXoECAIQAw&biw=1707&bih=837&dpr=1.13#imgrc=-OsQE1qHxkR1OM)
 
 ### Markdown
 
