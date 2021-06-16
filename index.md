@@ -1,7 +1,7 @@
 ## Coś o mnie.
 
 Nazywam się Krzysztof Morek, aktualnie mam 22 lata a urodziłem się 14 września 1999 roku w Szczecinie
-
+[Image](C:\Users\Krzychu\Desktop\Github/zdj1)
 
 ### Markdown
 
